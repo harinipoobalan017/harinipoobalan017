@@ -1,36 +1,83 @@
-# 👋 Hi, I'm Harini
+# 👋 Hi, I'm Harini P
 
-🎓 B.E. Student in IoT & Cyber Security including Blockchain Technology  
-🏫 Dayananda Sagar College of Engineering (DSCE), Kumaraswamy Layout
+🎓 B.E Student in IoT & Cyber Security including Blockchain Technology  
+🏫 Dayananda Sagar College of Engineering (DSCE), Bangalore
 
-💡 Passionate about:
-- Internet of Things (IoT)
-- Cyber Security
-- Blockchain Technology
-- Smart Systems
-- Real-World Tech Projects
+🎓 Diploma in Computer Science  
+🏫 Ramaiah Polytechnic
 
----
-
-## 🚀 Currently Exploring
-
-- ESP32 & Arduino Projects
-- Smart Automation Systems
-- Network & Cyber Security
-- Blockchain-Based Applications
-- Full Stack Development
-- Real-Time Monitoring Systems
+💼 Internship Experience  
+🏢 Integra Micro Systems (2025)
 
 ---
 
-## 🛠️ Tech Interests
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,html,css,git,github,vscode,c,java" />
-</p>
+- 🔐 Passionate about Cybersecurity & Blockchain
+- 🌐 Building Real-Time Smart Systems
+- 🤖 Exploring AI-powered security platforms
+- ⚡ Interested in IoT Automation & Smart Devices
+- 🛡️ Developing futuristic full-stack applications
+- 🚀 Enthusiastic about real-world tech innovation
+
+---
+
+## 🧠 Tech Stack
+
+### Languages
+- JavaScript
+- Python
+- C
+- Java
+
+### Frontend
+- React.js
+- HTML5
+- CSS3
+- Framer Motion
+
+### Backend
+- Node.js
+- Express.js
+- Flask
+
+### Database
+- MySQL
+- MongoDB
+
+### Cybersecurity & Blockchain
+- Ethereum
+- Ethers.js
+- Cryptography
+- AES-256 Encryption
+- SHA-256 Hashing
+
+### IoT & Hardware
+- ESP32
+- Arduino
+- Sensors & Automation
+- Smart Monitoring Systems
+
+---
+
+## 🌟 Featured Projects
+
+### 🔐 QuantumVault-X
+AI-powered decentralized cybersecurity vault using AES-256 encryption and Ethereum blockchain verification.
+
+### 🚨 Rakshak
+Emergency management & smart protection platform with futuristic cyber-inspired UI and real-time monitoring.
+
+### 🚦 Smart Routing Project
+Real-time traffic optimization system using graph algorithms, ML prediction, and route analytics.
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/harinipoobalan017
+- 💼 LinkedIn: https://www.linkedin.com/in/harini-p-083594274/
+- 🌐 GitHub: https://github.com/harinipoobalan017
+
+---
+
+⭐ Always learning, building, and exploring futuristic technologies.
