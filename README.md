@@ -1,157 +1,262 @@
 <h1 align="center">Hi 👋, I'm Harini P</h1>
 
 <h3 align="center">
-IoT • Cybersecurity • Blockchain • Smart Systems
+IoT • Cybersecurity • Embedded Systems • Blockchain • Full Stack Developer
 </h3>
 
 <p align="center">
-Building secure and intelligent real-world systems using IoT, AI and Embedded Technologies.
+Building Secure, Intelligent & Scalable Real-World Systems 🚀
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=IoT+Developer;Cybersecurity+Enthusiast;Embedded+Systems+Engineer;Blockchain+Explorer;AI+Powered+Smart+Systems;Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=harinipoobalan017&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=8A2BE2&center=true&vCenter=true&width=800&lines=IoT+Developer;Cybersecurity+Enthusiast;Blockchain+Explorer;Smart+Systems+Builder;AI+Powered+Innovation" />
+# 👩‍💻 About Me
+
+🎓 Bachelor of Engineering in **IoT & Cybersecurity including Blockchain Technology**
+
+🏫 **Dayananda Sagar College of Engineering (DSCE), Bangalore**
+
+🎓 Diploma in Computer Science
+
+🏫 Ramaiah Polytechnic
+
+💼 Former Full Stack Development Intern @ **Integra Micro Systems**
+
+---
+
+## 🚀 What I'm Passionate About
+
+- 🔐 Cybersecurity & Secure Smart Systems
+- 🤖 Artificial Intelligence & Machine Learning
+- 🌐 Internet of Things (IoT)
+- ⚙ Embedded Systems
+- 🔗 Blockchain Technology
+- ☁ Cloud Computing
+- 💻 Full Stack Development
+- 📡 Real-Time Automation
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+</p>
+
+### Web Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+</p>
+
+### Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+### Embedded & IoT
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=arduino"/>
+
+<img src="https://skillicons.dev/icons?i=raspberrypi"/>
+
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
 </p>
 
 ---
 
+# 🚀 Featured Projects
+
+## 🛡 QuantumVault-X
+
+AI-powered decentralized cybersecurity vault integrating AES-256 encryption with blockchain verification.
+
+---
+
+## 🚦 Smart Traffic Routing System
+
+Real-time IoT traffic optimization system using intelligent routing algorithms and congestion prediction.
+
+---
+
+## 🤖 Rakshak
+
+AI-powered Emergency Management & Smart Protection System featuring real-time monitoring, analytics dashboards and automation.
+
+---
+
+## 🔒 SentinelGPT-X
+
+Next-generation AI-powered SOC & XDR platform for cybersecurity monitoring, threat intelligence and incident response.
+
+---
+
+## 🌐 Blockchain Secure IoT Communication
+
+Blockchain-enabled secure communication framework for IoT devices ensuring trust, authentication and integrity.
+
+---
+
+# 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harinipoobalan017&label=Profile%20Views&color=blueviolet&style=flat" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=harinipoobalan017&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinipoobalan017&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## About Me
-
-- IoT & Cybersecurity student passionate about secure smart systems
-- Interested in Embedded Systems, Blockchain and AI-powered security
-- Building real-time automation and intelligent IoT applications
-- Exploring futuristic technologies and scalable architectures
-- Focused on solving real-world problems using technology
-
----
-
-## Education
-
-🎓 B.E in IoT & Cybersecurity including Blockchain Technology  
-📍 Dayananda Sagar College of Engineering (DSCE), Bangalore
-
-🎓 Diploma in Computer Science  
-📍 Ramaiah Polytechnic
-
----
-
-## Internship Experience
-
-💼 Integra Micro Systems (2025)
-
-- Worked on real-world technology solutions
-- Gained exposure to software development workflows
-- Improved practical understanding of system-based applications
-
----
-
-## Tech Stack
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,react,nodejs,mongodb,mysql,arduino,linux,git,github,vscode" />
+
+<img src="https://streak-stats.demolab.com?user=harinipoobalan017&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## Areas of Interest
-
-- Cybersecurity
-- Embedded Systems
-- Smart IoT Automation
-- Blockchain Applications
-- Artificial Intelligence
-- Real-Time Systems
-- Full Stack Development
-
----
-
-## Featured Projects
-
-### Smart Traffic Routing System
-Real-time traffic optimization system using IoT sensors and intelligent automation.
-
-### AI-Based Security Monitoring
-AI-powered monitoring system for anomaly detection and security enhancement.
-
-### Blockchain Secure IoT Communication
-Secure communication framework for IoT devices using blockchain architecture.
-
-### Smart Automation Projects
-Embedded and IoT-based automation systems designed for real-world applications.
-
----
-
-## GitHub Analytics
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harinipoobalan017&theme=tokyonight" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harinipoobalan017&theme=tokyo-night"/>
 
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harinipoobalan017&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harinipoobalan017&theme=tokyonight" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harinipoobalan017&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harinipoobalan017&theme=tokyonight&utcOffset=5.5" />
-
-</p>
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=harinipoobalan017&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## GitHub Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harinipoobalan017&theme=tokyonight&row=1&column=6" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=harinipoobalan017&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
 </p>
 
 ---
 
-## Contribution Graph
+# 📌 Current Focus
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harinipoobalan017/harinipoobalan017/output/github-contribution-grid-snake.svg" />
-</p>
+- 🚀 Building secure AI-powered systems
+- 🤖 Developing Embedded & IoT solutions
+- ☁ Learning Cloud Computing
+- 🔐 Exploring Offensive & Defensive Security
+- 🌍 Contributing to Open Source
 
 ---
 
-## Connect With Me
+# 🏅 Certifications & Programs
+
+
+- 🎓 Cisco Networking Academy
+- 🎓 IBM SkillsBuild
+- 🎓 AWS Skill Builder
+  
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
 <a href="https://github.com/harinipoobalan017">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/harini-p-083594274">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
 
 </p>
 
 ---
 
+# 💡 Quote
+
+<h3 align="center">
+
+"Engineering Secure, Intelligent & Future-Ready Technologies."
+
+</h3>
+
+---
+
 <p align="center">
-⭐ Building innovative and secure technologies for the future ⭐
+
+⭐ Thank you for visiting my profile! ⭐
+
+If you like my projects, consider giving them a ⭐
+
 </p>
