@@ -179,25 +179,6 @@ Blockchain-enabled secure communication framework for IoT devices ensuring trust
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harinipoobalan017&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harinipoobalan017&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
-
-</p>
-
----
 
 # 📌 Current Focus
 
