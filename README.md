@@ -210,28 +210,23 @@ Migrating AI Workflows Across Platforms<br>
 </p>
 
 <br>
-
 # 🏅 Certifications & Programs
 
 <p align="center">
-
-<a href="https://openprofile.dev/profile/harinip01" target="_blank">
-<img
-src="./assets/linux-foundation-lfel1008.png"
-width="220"
-alt="Linux Foundation - Migrating AI Workflows Across Platforms"
-/>
-</a>
-
+  <a href="https://openprofile.dev/profile/harinip01">
+    <img
+      src="https://raw.githubusercontent.com/harinipoobalan017/harinipoobalan017/main/assets/linux-foundation-lfel1008.png"
+      width="220"
+      alt="Linux Foundation - Migrating AI Workflows Across Platforms"
+    />
+  </a>
 </p>
 
 <p align="center">
-<b>Linux Foundation</b><br>
-Migrating AI Workflows Across Platforms<br>
-<code>LFEL1008</code>
+  <b>Linux Foundation</b><br>
+  Migrating AI Workflows Across Platforms<br>
+  <code>LFEL1008</code>
 </p>
-
-<br>
 
 ### 📜 Certifications & Learning Programs
 
@@ -245,7 +240,7 @@ Migrating AI Workflows Across Platforms<br>
 ---
 
 <p align="center">
-<i>Continuously learning, building, and exploring new technologies 🚀</i>
+  <i>Continuously learning, building, and exploring new technologies 🚀</i>
 </p>
 
 # 🌐 Connect With Me
