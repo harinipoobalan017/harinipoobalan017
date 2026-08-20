@@ -1,160 +1,222 @@
-<h1 align="center">👋 Hi, I'm Harini P</h1>
-
-<h3 align="center">
-IoT & Cybersecurity Engineer • Embedded Systems • AI/ML • Full Stack Development
-</h3>
+<h1 align="center">HARINI P</h1>
 
 <p align="center">
-Building secure, intelligent and scalable real-world systems 🚀
+  <b>IoT & Cybersecurity Engineer</b>
+  &nbsp;•&nbsp;
+  <b>Embedded Systems</b>
+  &nbsp;•&nbsp;
+  <b>AI / ML</b>
+  &nbsp;•&nbsp;
+  <b>Full Stack Development</b>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=900&color=8A2BE2&center=true&vCenter=true&width=800&lines=IoT+Developer;Cybersecurity+Enthusiast;Embedded+Systems+Engineer;AI%2FML+Explorer;Blockchain+Explorer;Full+Stack+Developer;Always+Building+%26+Learning" alt="Typing SVG"/>
+  <img src="https://img.shields.io/badge/ENGINEERING_LAB-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-BUILDING-00A67E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LOCATION-BANGALORE-4285F4?style=for-the-badge"/>
+</p>
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+ 
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+ 
+
+<a href="https://github.com/harinipoobalan017">
+<img src="https://img.shields.io/badge/GITHUB-Projects-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=harinipoobalan017&label=PROFILE+VIEWS&color=8A2BE2&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/harinipoobalan017?label=FOLLOWERS&style=for-the-badge&color=8A2BE2"/>
-<img src="https://img.shields.io/github/stars/harinipoobalan017?label=STARS&style=for-the-badge&color=8A2BE2"/>
-</p>
-
-<p align="center">
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/harinipoobalan017">
-<img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
-
-🎓 **Bachelor of Engineering** in **IoT & Cybersecurity including Blockchain Technology**
-
-🏫 **Dayananda Sagar College of Engineering (DSCE), Bangalore**
-
-🎓 **Diploma in Computer Science** — Ramaiah Polytechnic
-
-💼 **Former Full Stack Development Intern** — Integra Micro Systems
-
-I enjoy designing and developing systems that combine **software, hardware, intelligence and security**. My interests include IoT, embedded systems, AI/ML, cybersecurity, blockchain and full-stack development.
-
----
-
-# 🚀 What I Work On
+## `01` // SYSTEM PROFILE
 
 <table>
 <tr>
-<td width="50%">
 
-### 🤖 AI & Machine Learning
+<td width="55%">
 
-* AI-powered applications
-* Machine Learning
-* Intelligent automation
-* Edge AI
-* Computer vision
-
-</td>
-
-<td width="50%">
-
-### 🌐 IoT & Embedded
-
-* Internet of Things
-* ESP32
-* Arduino
-* Raspberry Pi
-* Embedded systems
-* Real-time automation
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🔐 Cybersecurity
-
-* Secure IoT systems
-* Authentication
-* Data integrity
-* Security monitoring
-* Blockchain security
+```text
+┌────────────────────────────────────────────┐
+│             HARINI P / PROFILE             │
+├────────────────────────────────────────────┤
+│                                            │
+│  🎓  B.E. IoT & Cybersecurity              │
+│      including Blockchain Technology       │
+│                                            │
+│  🏫  Dayananda Sagar College               │
+│      of Engineering, Bangalore             │
+│                                            │
+│  🎓  Diploma in Computer Science           │
+│      Ramaiah Polytechnic                   │
+│                                            │
+│  💼  Former Full Stack Development Intern  │
+│      Integra Micro Systems                 │
+│                                            │
+└────────────────────────────────────────────┘
+```
 
 </td>
 
-<td>
+<td width="45%" align="center">
 
-### 💻 Software Development
+### CURRENT DOMAIN
 
-* Full Stack Development
-* REST APIs
-* Database systems
-* Cloud technologies
-* Real-time applications
+🌐 **IoT**
+
+⚙️ **Embedded Systems**
+
+🤖 **AI / ML**
+
+🔐 **Cybersecurity**
+
+🔗 **Blockchain**
+
+💻 **Full Stack**
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 🛠️ Tech Stack
+## `02` // ENGINEERING DOMAINS
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+### 🌐
+
+**IoT**
+
+Connected Devices
+Sensors
+Automation
+Real-Time Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**EMBEDDED**
+
+ESP32
+Arduino
+Raspberry Pi
+Edge Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AI / ML**
+
+Machine Learning
+Computer Vision
+Intelligent Systems
+Edge AI
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔐
+
+**SECURITY**
+
+Secure IoT
+Authentication
+Data Integrity
+Blockchain
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+## `03` // TECHNOLOGY MATRIX
 
 ### 💻 Programming Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript"/>
+
 </p>
 
-### 🌐 Web Development
+### 🌐 Web & Backend
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind"/>
+
 </p>
 
 ### 🗄️ Databases
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+
 </p>
 
 ### ⚙️ Embedded & IoT
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
 
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+
 </p>
 
 ### 🔧 Tools & Platforms
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
+
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## `04` // PROJECT LAB
 
 <table>
+
 <tr>
 
 <td width="50%">
 
-## 🛡️ QuantumVault-X
+### 🛡️ QuantumVault-X
 
-AI-powered decentralized cybersecurity vault combining encryption with blockchain verification.
+AI-powered decentralized cybersecurity vault combining encryption, secure data handling and blockchain-based verification.
 
-**Technologies**
+**Focus**
 
 `AI` `Cybersecurity` `Blockchain`
 
@@ -162,11 +224,11 @@ AI-powered decentralized cybersecurity vault combining encryption with blockchai
 
 <td width="50%">
 
-## 🚦 Smart Traffic Routing System
+### 🚦 Smart Traffic Routing
 
-IoT-based intelligent traffic management system using real-time monitoring, routing and congestion prediction.
+Intelligent IoT traffic management system using real-time monitoring, intelligent routing and congestion prediction.
 
-**Technologies**
+**Focus**
 
 `IoT` `AI/ML` `Smart Cities`
 
@@ -178,11 +240,11 @@ IoT-based intelligent traffic management system using real-time monitoring, rout
 
 <td width="50%">
 
-## 🤖 Rakshak
+### 🤖 Rakshak
 
-AI-powered emergency management and smart protection system with real-time monitoring, analytics and automation.
+AI-powered emergency management and smart protection system with real-time monitoring, analytics and automated response.
 
-**Technologies**
+**Focus**
 
 `AI` `IoT` `Automation`
 
@@ -190,11 +252,11 @@ AI-powered emergency management and smart protection system with real-time monit
 
 <td width="50%">
 
-## 🔒 SentinelGPT-X
+### 🔒 SentinelGPT-X
 
-AI-powered SOC/XDR platform concept for cybersecurity monitoring, threat intelligence and incident response.
+AI-powered SOC/XDR platform concept designed around threat monitoring, threat intelligence and incident response.
 
-**Technologies**
+**Focus**
 
 `AI` `Cybersecurity` `SOC`
 
@@ -206,11 +268,11 @@ AI-powered SOC/XDR platform concept for cybersecurity monitoring, threat intelli
 
 <td width="50%">
 
-## 🌐 Blockchain Secure IoT Communication
+### 🌐 Secure IoT Communication
 
-Blockchain-enabled communication framework focused on device authentication, trust and data integrity.
+Blockchain-enabled IoT communication architecture focused on device authentication, trust and data integrity.
 
-**Technologies**
+**Focus**
 
 `Blockchain` `IoT` `Security`
 
@@ -218,22 +280,23 @@ Blockchain-enabled communication framework focused on device authentication, tru
 
 <td width="50%">
 
-## 🔬 More Projects
+### 🔬 Experimental Lab
 
-Continuously developing projects across AI, embedded systems, IoT, cybersecurity and automation.
+A growing collection of experiments involving embedded systems, AI, automation and intelligent devices.
 
 **Status**
 
-`BUILDING` `LEARNING` `EXPLORING`
+`BUILDING` `TESTING` `LEARNING`
 
 </td>
 
 </tr>
+
 </table>
 
 ---
 
-# 🏅 Certifications
+## `05` // CERTIFICATION VAULT
 
 ### 🐧 Linux Foundation
 
@@ -257,13 +320,17 @@ alt="Linux Foundation - Migrating AI Workflows Across Platforms"
 
 <br>
 
-Linux Foundation • <code>LFEL1008</code>
+Linux Foundation
+
+<br>
+
+<code>LFEL1008</code>
 
 <br><br>
 
 <a href="https://www.credly.com/badges/158fca11-6091-471f-a128-640b93da318a">
 
-🔗 <b>View & Verify Credential</b>
+🔗 <b>Verify Credential</b>
 
 </a>
 
@@ -271,108 +338,164 @@ Linux Foundation • <code>LFEL1008</code>
 
 ---
 
-# 📜 Learning Programs
+### 📚 Learning Programs
 
 | Organization                    | Focus                         |
-| ------------------------------- | ----------------------------- |
+| :------------------------------ | :---------------------------- |
 | 🐧 **Linux Foundation**         | AI & Open Source Technologies |
 | 🌐 **Cisco Networking Academy** | Networking & Technology       |
 | 💻 **IBM SkillsBuild**          | AI & Emerging Technologies    |
-| ☁️ **AWS Skill Builder**        | Cloud & AWS Technologies      |
+| ☁️ **AWS Skill Builder**        | Cloud & AWS                   |
 
 ---
 
-# 📊 GitHub Analytics
+## `06` // GITHUB TELEMETRY
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=harinipoobalan017&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img
+width="48%"
+src="https://github-readme-stats.vercel.app/api?username=harinipoobalan017&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinipoobalan017&layout=compact&theme=tokyonight&hide_border=true"/>
+<img
+width="48%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinipoobalan017&layout=compact&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## `07` // CONTRIBUTION STREAK
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=harinipoobalan017&theme=tokyonight&hide_border=true"/>
+<img
+src="https://streak-stats.demolab.com?user=harinipoobalan017&theme=tokyonight&hide_border=true"
+/>
 
 </p>
 
 ---
 
-# 🎯 Current Focus
+## `08` // CURRENT DEVELOPMENT
 
 <table>
+
 <tr>
-<td>
 
-🤖 **AI / ML**
+<td width="50%">
 
-Building intelligent applications and exploring practical machine learning.
+### 🤖 AI / ML
+
+Building practical intelligent applications and exploring machine learning.
 
 </td>
 
-<td>
+<td width="50%">
 
-⚙️ **Embedded & IoT**
-
-Developing connected devices and real-time systems.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🧠 **Edge AI**
+### ⚙️ Edge AI
 
 Exploring AI inference on resource-constrained devices.
 
 </td>
 
-<td>
+</tr>
 
-🔐 **Cybersecurity**
+<tr>
 
-Improving secure system design and IoT security.
+<td width="50%">
+
+### 🌐 IoT
+
+Developing connected systems using microcontrollers, sensors and real-time communication.
 
 </td>
+
+<td width="50%">
+
+### 🔐 Security
+
+Exploring secure architecture, authentication and IoT security.
+
+</td>
+
 </tr>
 
 </table>
 
 ---
 
-# 📚 Currently Learning
+## `09` // 2026 ROADMAP
+
+```text
+                         2026
+                           │
+             ┌─────────────┼─────────────┐
+             │             │             │
+             ▼             ▼             ▼
+          AI / ML        IoT        CYBERSECURITY
+             │             │             │
+             └──────┬──────┴──────┬──────┘
+                    │             │
+                    ▼             ▼
+                 EDGE AI     SECURE IoT
+                    │             │
+                    └──────┬──────┘
+                           │
+                           ▼
+                  EMBEDDED SYSTEMS
+                           │
+                           ▼
+                  INTELLIGENT SYSTEMS
+                           │
+                           ▼
+                 RESEARCH & PROJECTS
+                           │
+                           ▼
+                     OPEN SOURCE
+```
+
+### 🎯 Development Targets
+
+* [ ] Strengthen AI / ML fundamentals
+* [ ] Build practical Edge AI systems
+* [ ] Develop advanced IoT projects
+* [ ] Improve embedded systems expertise
+* [ ] Build secure connected systems
+* [ ] Contribute to open-source projects
+* [ ] Develop research-oriented projects
+* [ ] Participate in hackathons
+* [ ] Complete professional certifications
+
+---
+
+## `10` // CURRENTLY EXPLORING
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Edge%20AI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Embedded%20Systems-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IoT-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cybersecurity-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Blockchain-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/EDGE%20AI-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/EMBEDDED%20SYSTEMS-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/IoT-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/CYBERSECURITY-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/BLOCKCHAIN-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/CLOUD-8A2BE2?style=flat-square"/>
 
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## `11` // CONNECT
 
 <p align="center">
 
-<a href="[YOUR_LINKEDIN](https://www.linkedin.com/in/harini-p-083594274/)">
+<a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="harinipoobalan017@gmail.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -390,9 +513,17 @@ Improving secure system design and IoT security.
 
 <p align="center">
 
-### 🚀 Building • Learning • Innovating
+<b>HARINI P</b>
 
-<i>Turning ideas into intelligent, secure and real-world systems.</i>
+<br>
+
+IoT • Embedded • AI • Security
+
+<br><br>
+
+<sub>
+Designing intelligent systems at the intersection of hardware, software and security.
+</sub>
 
 </p>
 
