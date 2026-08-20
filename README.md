@@ -191,19 +191,23 @@ Blockchain-enabled secure communication framework for IoT devices ensuring trust
 
 # 🏅 Certifications & Programs
 
-<p align="center">
-  <a href="https://openprofile.dev/profile/harinip01">
-    <img src="./assets/linux-foundation-lfel1008.png"
-         width="220"
-         alt="Linux Foundation - Migrating AI Workflows Across Platforms"/>
-  </a>
-</p>
+<table>
+<tr>
+<td align="center" width="250">
 
-<p align="center">
-  <b>Linux Foundation</b><br>
-  Migrating AI Workflows Across Platforms<br>
-  <b>LFEL1008</b>
-</p>
+<img src="https://raw.githubusercontent.com/harinipoobalan017/harinipoobalan017/main/assets/linux-foundation-lfel1008.png" width="170"/>
+
+**Linux Foundation**
+
+Migrating AI Workflows Across Platforms
+
+**LFEL1008**
+
+</td>
+</tr>
+</table>
+
+### Other Certifications
 
 - 🎓 Cisco Networking Academy
 - 🎓 IBM SkillsBuild
