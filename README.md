@@ -162,13 +162,15 @@ A blockchain-enabled security framework for IoT communication that focuses on **
 
 ### 🐧 Linux Foundation
 
+### 🐧 Linux Foundation
+
 <p align="center">
 
 <a href="https://www.credly.com/badges/158fca11-6091-471f-a128-640b93da318a" target="_blank">
 
 <img
-src="https://images.credly.com/size/340x340/images/158fca11-6091-471f-a128-640b93da318a.png"
-width="180"
+src="./linux-foundation-lfel1008.png"
+width="220"
 alt="Linux Foundation - Migrating AI Workflows Across Platforms"
 />
 
@@ -177,20 +179,18 @@ alt="Linux Foundation - Migrating AI Workflows Across Platforms"
 </p>
 
 <p align="center">
-
 <b>Migrating AI Workflows Across Platforms</b><br>
-
 Linux Foundation • <code>LFEL1008</code>
-
 </p>
 
 <p align="center">
-
 <a href="https://www.credly.com/badges/158fca11-6091-471f-a128-640b93da318a" target="_blank">
 View Credential →
 </a>
-
 </p>
+
+
+
 
 ---
 
